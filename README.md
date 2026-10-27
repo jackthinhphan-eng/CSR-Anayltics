@@ -6,11 +6,11 @@ Phân tích dữ liệu NYC 311 và dựng dashboard offline bằng Python.
 
 1. Tạo môi trường ảo: `python -m venv venv`
 2. Kích hoạt môi trường ảo :
-  Windows PowerShell: venv\Scripts\Activate.ps1
-  Windows CMD: venv\Scripts\activate.bat
-  Mac/Linux: source venv/bin/activate
-4. Cài thư viện: `pip install -r requirements.txt`
-5. Kiểm tra: `python src/check_env.py`
+3. Windows PowerShell: `venv\Scripts\Activate.ps1`
+4. Windows CMD: `venv\Scripts\activate.bat`
+5. Mac/Linux: `source venv/bin/activate`
+6. Cài thư viện: `pip install -r requirements.txt`
+7. Kiểm tra: `python src/check_env.py`
 
 ## Cấu trúc
 
